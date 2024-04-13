@@ -1,1 +1,2 @@
 echo "testing echo command"
+echo "poll scm"
